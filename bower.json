@@ -1,0 +1,9 @@
+{
+  "name": "webpacktest",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "ember": "~1.9.0",
+    "ember-data": "~0.0.14"
+  }
+}
